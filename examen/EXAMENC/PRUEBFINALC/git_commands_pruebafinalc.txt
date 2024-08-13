@@ -1,0 +1,227 @@
+    1  get ls
+    2  cd
+    3  cd estudiante1
+    4  get checkout ejemploc
+    5  git branch inicio
+    6  git branch inicio
+    7  git swich 
+    8  git swich inicio
+    9   cd 
+   10  ls
+   11  lc
+   12  ls
+   13  cd ..
+   14  cd estudiante04
+   15  cd Descktop 
+   16  cd Desktop
+   17  mkdir "ejemplo.c"
+   18  touch ejercicio.c
+   19  cd
+   20  touch ejercicio1
+   21  cd 
+   22  cd ejercicio1
+   23  cd estul1
+   24  touch ejrcicio2
+   25  cd
+   26  cd estudiante04
+   27  cd 
+   28  cd ejercicio.c
+   29  touch ejrcicio1
+   30  cd 
+   31  cd ejemplo.c
+   32  git swich incio 
+   33  git log --graph
+   34  cd 
+   35  cd ejercio.c
+   36  cd "ejercicio.c"
+   37  cd
+   38  cd "ejercicio.c"
+   39  git swich inicio
+   40  mkdir NUevacarpeta
+   41  mkdir
+   42  mkdir NUevacarpeta
+   43  mkdir carpetajosh1
+   44  cd "pwd
+   45  cerrar
+   46  finish
+   47  touch ejrcicio,0
+   48  ls
+   49  pwd
+   50  mkdir joshualol
+   51  p.ej.touch nuevarch
+   52  touch nueva1
+   53  code .
+   54  cd descktop
+   55  cd desktop
+   56  cd dektop ejemplo.c
+   57  cd ejercicio.c
+   58  cd desktop ejemplo.c
+   59  cd ..
+   60  ls
+   61  cd ..
+   62  cd estudiante04
+   63  cd ..
+   64  cd estudiante04
+   65  cd ..
+   66  cd estudiante04
+   67  git status
+   68  mkidr "proyecto1"
+   69  git log
+   70  git init
+   71  topuch clientes.c
+   72  git add clientes.c
+   73  git commit -m "clientes"
+   74  git commit -m "clientes"
+   75  ls
+   76  topuch datos.c
+   77  git add datos.c
+   78  git commit -m "datos"
+   79  touch datos.c
+   80  git add datos.c
+   81  git commit -m "datos"
+   82  touch invilado.c
+   83  git add invilido.c
+   84  cd 
+   85  cd ..
+   86  cd joshua_Dleon
+   87   sd Desktop
+   88  git clone https://github.com/jhosuaciemxela/agosto07.git
+   89  touch principal 
+   90  code .
+   91  git add. 
+   92  git commit -m "archivo_principal"
+   93  git remote add origin [200~https://github.com/jhosuaciemxela/agosto07.git~
+   94  ls
+   95  git add principal.c 
+   96  git commit -m "archivo_principal"
+   97  git remote add origin [200~https://github.com/jhosuaciemxela/agosto07.git~
+   98  git bush
+   99  git push
+  100  git --global user.name "jhosuaciemxela"
+  101  git config --global user.name "jhosuaciemxela"
+  102  git init 
+  103  git config --global user.name "jhosuaciemxela"
+  104  git config --global user.email elgithubpero@gmail.com
+  105  git config --list
+  106  cd 
+  107  touch princioal_2.c
+  108  code .
+  109  git init
+  110  git init
+  111  git clone https://github.com/JavierGT1/PROYECTOEQUIPOGT.git
+  112  touch agenda1
+  113  code .
+  114  toauch agenda_01.c
+  115  touch agenda_01.c
+  116  code .
+  117  cd
+  118  cd.
+  119  mkdir Examenc
+  120  cd EXAMENC
+  121  git branch:
+  122  git branch Equipo1
+  123  git branch Equipo2
+  124  git branch Equipo3
+  125  git branch:
+  126  mkdir EXAMENC
+  127  cd EXAMENC
+  128  git branch:
+  129  git branch:
+  130  git branch
+  131  git branch
+  132  git branch:
+  133  git branch
+  134  cd
+  135  mkdir EXAMENC
+  136  mkdir EXAMENC
+  137  cd
+  138  mkdir EXAMENC
+  139  mkdir EXAMENC
+  140  cdm
+  141  git init
+  142  cd
+  143  mkdir EXAMENC
+  144  git branch:
+  145  git branch:
+  146  git branch Equipo1
+  147  cd
+  148  git branch
+  149  git branch Equipo1
+  150  tuouch 
+  151  git branch -m main
+  152  git branch:
+  153  git branch
+  154  git branch Equipo1
+  155  git add .
+  156  add .
+  157  git branch:  
+  158        
+  159  ranch
+  160  git branch
+  161  git branch Equipo1
+  162  git branch "Equipo1"
+  163  git chekout
+  164  git chekout "Equipo1"
+  165  git branch "Equipo1"
+  166  git branch
+  167  git chekout "Equipo1"
+  168  git chekout "Equipo1"
+  169  tach
+  170  [200~hekout' is not a git command. See 'git --help'.
+  171  F
+  172  DS[19~Function Key 7Function Key 8Function Key 6~
+  173  -
+  174  Function Key 8|.bash_history .git .gitconfig .lesshst .vscode AppData Configuración\ local Cookies Datos\ de\ programa Desktop Documents Downloads Entorno\ de\ red Examenc Favorites Impresoras IntelGraphicsProfiles Menú\ Inicio Mis\ documentos NTUSER.DAT NTUSER.DAT\{b7577cd8-bfcc-11eb-983c-e454e84d9ebe\}.TxR.0.regtrans-ms NTUSER.DAT\{b7577cd8-bfcc-11eb-983c-e454e84d9ebe\}.TxR.1.regtrans-ms NTUSER.DAT\{b7577cd8-bfcc-11eb-983c-e454e84d9ebe\}.TxR.2.regtrans-ms NTUSER.DAT\{b7577cd8-bfcc-11eb-983c-e454e84d9ebe\}.TxR.blf NTUSER.DAT\{b7577cd9-bfcc-11eb-983c-e454e84d9ebe\}.TM.blf NTUSER.DAT\{b7577cd9-bfcc-11eb-983c-e454e84d9ebe\}.TMContainer00000000000000000001.regtrans-ms NTUSER.DAT\{b7577cd9-bfcc-11eb-983c-e454e84d9ebe\}.TMContainer00000000000000000002.regtrans-ms NUevacarpeta Plantillas Reciente Saved\ Games SendTo Videos carpetajosh1 ejercicio1 ejrcicio1 ejrcicio2 joshualol ntuser.dat.LOG1 ntuser.dat.LOG2 ntuser.ini nueva1 **
+  175  {ñls.
+  176  cd -/Desktop
+  177  mkdir EXAMENC
+  178  cd EXAMENC
+  179  GIT INIT
+  180  git init
+  181  git chekout -b "numbre_equipo_1"
+  182  echo "//progrma 1 en c"> progrma1.c
+  183  git add progrma1.c
+  184  git commit -m "agregar programa1"
+  185  git checkout main 
+  186  git cheka -b "nombre _equipo_2"
+  187  git checkout -b "nombre _equipo_2"
+  188  echo "progrma 2 en c"> progrma2.c
+  189  git add programa2.c
+  190  git commit -m "agregar programa2"
+  191  git chekout main
+  192  git chekout -b "nombre_del_equipo_3"
+  193  echo programa3.c
+  194  echo "programa 3 3n c">programa3.c
+  195  git add programa3.c
+  196  git commit _m "agregar numero3"
+  197  git chekout main
+  198  git merge nombre_equipo_1
+  199  git merge nombre_equipo_2
+  200  git merge nombre_equipo_3
+  201  history < git_commands.txt
+  202  history > git_commands.txt
+  203  git remote add origin https://github.com/axelss26/examen.c.git
+  204  git branch -m main
+  205  git push -u origin main
+  206  git  add git_commands.txt
+  207  git commit -m 
+  208  git push
+  209  code .
+  210  cd -/Desktop
+  211  mkdir PRUEBFINALC
+  212  cd PRUEBFINALC
+  213  git init
+  214  git checkout -b nombre_integrante1
+  215  git add .
+  216  git commit -m
+  217  git commit -m "agregar ejercicio de nombre_integrante1"
+  218  git checkout main
+  219  git checkout -b nombre_integrante2
+  220  git add.
+  221  git commit -m "agregar ejercicios de nombre_integrante2"
+  222  git remore add origin 
+  223  git remore add origin [200~https://github.com/axelss26/examen.c.git~
+  224  git push -u origin main
+  225  git push -u origin nombre_integrante1
+  226  git push -u origin nombre_integrante2
+  227  history > git_commands_pruebafinalc.txt
